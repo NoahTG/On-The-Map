@@ -1,8 +1,4 @@
 # On-The-Map
 Udacity iOS Nanodegree
 
-This app displays a map that shows information posted by other students. 
-
-The map contains pins that show the location where other students have reported studying. By tapping on the pin users can see a URL for something the student finds interesting. 
-
-The user will be able to add their own data by posting a string that can be geocoded to a location, and a URL.
+“On The Map (OTM)" is an iOS mobile app that shows information posted by other students on a map. The map contains pins that show the location where other students have been reported to be studying. By tapping on a pin users can see an URL posted by the student belonging to that pin. The user is able to add their own data by posting a string that can be geocoded to a location and a URL.
